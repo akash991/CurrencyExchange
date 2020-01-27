@@ -1,0 +1,1442 @@
+[
+  {
+    "country": "Afghanistan",
+    "currency_name": "Afghan Afghani",
+    "currency_symbol": "AFN",
+    "rate": 0.9532,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Armenia",
+    "currency_name": "Armenian Dram",
+    "currency_symbol": "AMD",
+    "rate": 0.1487,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Azerbaijan",
+    "currency_name": "Azerbaijani Manat",
+    "currency_symbol": "AZN",
+    "rate": 42.455,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Bangladesh",
+    "currency_name": "Bangladeshi Taka",
+    "currency_symbol": "BDT",
+    "rate": 0.8572,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Cambodia",
+    "currency_name": "Cambodian Riel",
+    "currency_symbol": "KHR",
+    "rate": 0.01758,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "China",
+    "currency_name": "Chinese Yuan",
+    "currency_symbol": "CNY",
+    "rate": 10.513,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Georgia",
+    "currency_name": "Georgian Lari",
+    "currency_symbol": "GEL",
+    "rate": 27.539,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Hong Kong",
+    "currency_name": "Hong Kong Dollar",
+    "currency_symbol": "HKD",
+    "rate": 9.1813,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Indonesia",
+    "currency_name": "Indonesian Rupiah",
+    "currency_symbol": "IDR",
+    "rate": 0.005,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Japan",
+    "currency_name": "Japanese Yen",
+    "currency_symbol": "JPY",
+    "rate": 0.6422,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Kazakhstan",
+    "currency_name": "Kazakhstani Tenge",
+    "currency_symbol": "KZT",
+    "rate": 0.1974,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Laos",
+    "currency_name": "Lao Kip",
+    "currency_symbol": "LAK",
+    "rate": 0.0084,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Malaysia",
+    "currency_name": "Malaysian Ringgit",
+    "currency_symbol": "MYR",
+    "rate": 17.412,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "South Korea",
+    "currency_name": "South Korean Won",
+    "currency_symbol": "KRW",
+    "rate": 0.0642,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Sri Lanka",
+    "currency_name": "Sri Lankan Rupee",
+    "currency_symbol": "LKR",
+    "rate": 0.4286,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Maldives",
+    "currency_name": "Maldivian Rufiyaa",
+    "currency_symbol": "MVR",
+    "rate": 4.674,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Pakistan",
+    "currency_name": "Pakistani Rupee",
+    "currency_symbol": "PKR",
+    "rate": 0.5832,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Philippines",
+    "currency_name": "Philippine Peso",
+    "currency_symbol": "PHP",
+    "rate": 1.332,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Thailand",
+    "currency_name": "Thai Baht",
+    "currency_symbol": "THB",
+    "rate": 2.226,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Taiwan",
+    "currency_name": "Taiwanese Dollar",
+    "currency_symbol": "TWD",
+    "rate": 2.341,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Vietnam",
+    "currency_name": "Vietnamese Dong",
+    "currency_symbol": "VND",
+    "rate": 0.003,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Bahrain",
+    "currency_name": "Bahraini Dinar",
+    "currency_symbol": "BHD",
+    "rate": 191.6,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "United Arab Emirates",
+    "currency_name": "Emirati Dirham",
+    "currency_symbol": "AED",
+    "rate": 19.617,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Saudi Arabia",
+    "currency_name": "Saudi Arabian Riyal",
+    "currency_symbol": "SAR",
+    "rate": 19.21,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Oman",
+    "currency_name": "Omani Rial",
+    "currency_symbol": "OMR",
+    "rate": 187.44,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Israel",
+    "currency_name": "Israeli Shekel",
+    "currency_symbol": "ILS",
+    "rate": 20.115,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Iraq",
+    "currency_name": "Iraqi Dinar",
+    "currency_symbol": "IQD",
+    "rate": 0.0603,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Iran",
+    "currency_name": "Iranian Rial",
+    "currency_symbol": "IRR",
+    "rate": 0.0017,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Jordan",
+    "currency_name": "Icelandic Krona",
+    "currency_symbol": "ISK",
+    "rate": 0.653,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Kuwait",
+    "currency_name": "Kuwaiti Dinar",
+    "currency_symbol": "KWD",
+    "rate": 237.93,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Lebanon",
+    "currency_name": "Lebanese Pound",
+    "currency_symbol": "LBP",
+    "rate": 0.0477,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Qatar",
+    "currency_name": "Qatari Riyal",
+    "currency_symbol": "QAR",
+    "rate": 19.8,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Libya",
+    "currency_name": "Libyan Dinar",
+    "currency_symbol": "LYD",
+    "rate": 52.277,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Bosnia",
+    "currency_name": "Bosnian Convertible Marka",
+    "currency_symbol": "BAM",
+    "rate": 43.058,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "The European Union*",
+    "currency_name": "Euro",
+    "currency_symbol": "EUR",
+    "rate": 84.323,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Bulgaria",
+    "currency_name": "Bulgarian Lev",
+    "currency_symbol": "BGN",
+    "rate": 43.067,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "The Czech Republic",
+    "currency_name": "Czech Koruna",
+    "currency_symbol": "CZK",
+    "rate": 3.3007,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Croatia",
+    "currency_name": "Croatian Kuna",
+    "currency_symbol": "HRK",
+    "rate": 11.343,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Denmark",
+    "currency_name": "Danish Krone",
+    "currency_symbol": "DKK",
+    "rate": 11.3046,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Hungary",
+    "currency_name": "Hungarian Forint",
+    "currency_symbol": "HUF",
+    "rate": 0.2605,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Iceland",
+    "currency_name": "Icelandic Krona",
+    "currency_symbol": "ISK",
+    "rate": 0.653,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Moldova",
+    "currency_name": "Moldovan Leu",
+    "currency_symbol": "MDL",
+    "rate": 4.2899,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Macedonia",
+    "currency_name": "Macedonian Denar",
+    "currency_symbol": "MKD",
+    "rate": 1.3686,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Norway",
+    "currency_name": "Norwegian Krone",
+    "currency_symbol": "NOK",
+    "rate": 8.8406,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Poland",
+    "currency_name": "Polish Zloty",
+    "currency_symbol": "PLN",
+    "rate": 19.642,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Romania",
+    "currency_name": "Romanian Leu",
+    "currency_symbol": "RON",
+    "rate": 18.104,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Serbia",
+    "currency_name": "Serbian Denar",
+    "currency_symbol": "RSD",
+    "rate": 0.7134,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Russia",
+    "currency_name": "Russian Ruble",
+    "currency_symbol": "RUB",
+    "rate": 1.0818,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Norway",
+    "currency_name": "Norwegian Krone",
+    "currency_symbol": "NOK",
+    "rate": 8.8534,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Sweden",
+    "currency_name": "Swedish Krona",
+    "currency_symbol": "SEK",
+    "rate": 8.1303,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Switzerland",
+    "currency_name": "Swiss Franc",
+    "currency_symbol": "CHF",
+    "rate": 74.565,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Turkey",
+    "currency_name": "Turkish Lira",
+    "currency_symbol": "TRY",
+    "rate": 11.506,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Ukraine",
+    "currency_name": "Ukranian Hryvnia",
+    "currency_symbol": "UAH",
+    "rate": 2.5631,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "United Kingdom",
+    "currency_name": "British Pound",
+    "currency_symbol": "GBP",
+    "rate": 94.762,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Argentina",
+    "currency_name": "Argentine Peso",
+    "currency_symbol": "ARS",
+    "rate": 1.8343,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Bolivia",
+    "currency_name": "Bolivian Boliviano",
+    "currency_symbol": "BOB",
+    "rate": 10.437,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Brazil",
+    "currency_name": "Brazilian Real",
+    "currency_symbol": "BRL",
+    "rate": 17.468,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Chile",
+    "currency_name": "Chilean Peso",
+    "currency_symbol": "CLP",
+    "rate": 0.1061,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Columbia",
+    "currency_name": "Colombian Peso",
+    "currency_symbol": "COP",
+    "rate": 0.0237,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Peru",
+    "currency_name": "Peruvian Sol",
+    "currency_symbol": "PEN",
+    "rate": 21.83,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Paraguay",
+    "currency_name": "Paraguayan Guaran\u00ed",
+    "currency_symbol": "PYG",
+    "rate": 0.0123,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Uruguay",
+    "currency_name": "Uruguayan Peso",
+    "currency_symbol": "UYU",
+    "rate": 2.1711,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Venezuela",
+    "currency_name": "Venezuelan Bol\u00edvar",
+    "currency_symbol": "VEF",
+    "rate": 7.217,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "The United States",
+    "currency_name": "United States Dollar",
+    "currency_symbol": "USD",
+    "rate": 72.04,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Canada",
+    "currency_name": "Canadian Dollar",
+    "currency_symbol": "CAD",
+    "rate": 55.795,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Aruba",
+    "currency_name": "Aruban/Dutch Guilder",
+    "currency_symbol": "AWG",
+    "rate": 40.265,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Barbados",
+    "currency_name": "Bajan Dollar",
+    "currency_symbol": "BBD",
+    "rate": 36.037,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Bermuda",
+    "currency_name": "Bermudian Dollar",
+    "currency_symbol": "BMD",
+    "rate": 72.074,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Bahamas",
+    "currency_name": "Bahamian Dollar",
+    "currency_symbol": "BSD",
+    "rate": 72.07,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Dominica",
+    "currency_name": "Dominican Peso",
+    "currency_symbol": "DOP",
+    "rate": 1.437,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Jamaica",
+    "currency_name": "Jamaican Dollar",
+    "currency_symbol": "JMD",
+    "rate": 0.5291,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Mexico",
+    "currency_name": "Mexican Peso",
+    "currency_symbol": "MXN",
+    "rate": 3.842,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "South Africa",
+    "currency_name": "South African Rand",
+    "currency_symbol": "ZAR",
+    "rate": 4.917,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Egypt",
+    "currency_name": "Egyptian Pound",
+    "currency_symbol": "EGP",
+    "rate": 4.026,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Ghana",
+    "currency_name": "Ghanian Cedi",
+    "currency_symbol": "GHS",
+    "rate": 14.4894,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Gambia",
+    "currency_name": "Gambian Dalasi",
+    "currency_symbol": "GMD",
+    "rate": 1.4869,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Kenya",
+    "currency_name": "Kenyan Shilling",
+    "currency_symbol": "KES",
+    "rate": 0.715,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Morocco",
+    "currency_name": "Moroccan Dirham",
+    "currency_symbol": "MAD",
+    "rate": 7.684,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Mauritius",
+    "currency_name": "Mauritian Rupee",
+    "currency_symbol": "MUR",
+    "rate": 2.098,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Namibia",
+    "currency_name": "Namibian Dollar",
+    "currency_symbol": "NAD",
+    "rate": 4.921,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Nigeria",
+    "currency_name": "Nigerian Naira",
+    "currency_symbol": "NGN",
+    "rate": 0.1988,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Seychelles",
+    "currency_name": "Seychellois Rupee",
+    "currency_symbol": "SCR",
+    "rate": 5.3274,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Tunisia",
+    "currency_name": "Tunisian Dinar",
+    "currency_symbol": "TND",
+    "rate": 25.933,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Uganda",
+    "currency_name": "Ugandan Shilling",
+    "currency_symbol": "UGX",
+    "rate": 0.0188,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Central Africa",
+    "currency_name": "CFA Franc",
+    "currency_symbol": "XAF",
+    "rate": 0.12845,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "West Africa",
+    "currency_name": "Serbian Denar",
+    "currency_symbol": "XOF",
+    "rate": 0.1284,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Australia",
+    "currency_name": "Australian Dollar",
+    "currency_symbol": "AUD",
+    "rate": 52.3572,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Fiji",
+    "currency_name": "Fijian Dollar",
+    "currency_symbol": "FJD",
+    "rate": 33.94,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "New Zealand",
+    "currency_name": "New Zealand Dollar",
+    "currency_symbol": "NZD",
+    "rate": 47.95,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "CPF",
+    "currency_name": "CPF Franc",
+    "currency_symbol": "XPF",
+    "rate": 0.705,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:20:05"
+  },
+  {
+    "country": "Afghanistan",
+    "currency_name": "Afghan Afghani",
+    "currency_symbol": "AFN",
+    "rate": 0.9532,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Armenia",
+    "currency_name": "Armenian Dram",
+    "currency_symbol": "AMD",
+    "rate": 0.1487,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Azerbaijan",
+    "currency_name": "Azerbaijani Manat",
+    "currency_symbol": "AZN",
+    "rate": 42.455,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Bangladesh",
+    "currency_name": "Bangladeshi Taka",
+    "currency_symbol": "BDT",
+    "rate": 0.8572,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Cambodia",
+    "currency_name": "Cambodian Riel",
+    "currency_symbol": "KHR",
+    "rate": 0.01758,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "China",
+    "currency_name": "Chinese Yuan",
+    "currency_symbol": "CNY",
+    "rate": 10.513,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Georgia",
+    "currency_name": "Georgian Lari",
+    "currency_symbol": "GEL",
+    "rate": 27.539,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Hong Kong",
+    "currency_name": "Hong Kong Dollar",
+    "currency_symbol": "HKD",
+    "rate": 9.1813,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Indonesia",
+    "currency_name": "Indonesian Rupiah",
+    "currency_symbol": "IDR",
+    "rate": 0.005,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Japan",
+    "currency_name": "Japanese Yen",
+    "currency_symbol": "JPY",
+    "rate": 0.6422,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Kazakhstan",
+    "currency_name": "Kazakhstani Tenge",
+    "currency_symbol": "KZT",
+    "rate": 0.1974,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Laos",
+    "currency_name": "Lao Kip",
+    "currency_symbol": "LAK",
+    "rate": 0.0084,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Malaysia",
+    "currency_name": "Malaysian Ringgit",
+    "currency_symbol": "MYR",
+    "rate": 17.412,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "South Korea",
+    "currency_name": "South Korean Won",
+    "currency_symbol": "KRW",
+    "rate": 0.0642,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Sri Lanka",
+    "currency_name": "Sri Lankan Rupee",
+    "currency_symbol": "LKR",
+    "rate": 0.4286,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Maldives",
+    "currency_name": "Maldivian Rufiyaa",
+    "currency_symbol": "MVR",
+    "rate": 4.674,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Pakistan",
+    "currency_name": "Pakistani Rupee",
+    "currency_symbol": "PKR",
+    "rate": 0.5832,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Philippines",
+    "currency_name": "Philippine Peso",
+    "currency_symbol": "PHP",
+    "rate": 1.332,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Thailand",
+    "currency_name": "Thai Baht",
+    "currency_symbol": "THB",
+    "rate": 2.226,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Taiwan",
+    "currency_name": "Taiwanese Dollar",
+    "currency_symbol": "TWD",
+    "rate": 2.341,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Vietnam",
+    "currency_name": "Vietnamese Dong",
+    "currency_symbol": "VND",
+    "rate": 0.003,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Bahrain",
+    "currency_name": "Bahraini Dinar",
+    "currency_symbol": "BHD",
+    "rate": 191.6,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "United Arab Emirates",
+    "currency_name": "Emirati Dirham",
+    "currency_symbol": "AED",
+    "rate": 19.617,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Saudi Arabia",
+    "currency_name": "Saudi Arabian Riyal",
+    "currency_symbol": "SAR",
+    "rate": 19.21,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Oman",
+    "currency_name": "Omani Rial",
+    "currency_symbol": "OMR",
+    "rate": 187.44,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Israel",
+    "currency_name": "Israeli Shekel",
+    "currency_symbol": "ILS",
+    "rate": 20.115,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Iraq",
+    "currency_name": "Iraqi Dinar",
+    "currency_symbol": "IQD",
+    "rate": 0.0603,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Iran",
+    "currency_name": "Iranian Rial",
+    "currency_symbol": "IRR",
+    "rate": 0.0017,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Jordan",
+    "currency_name": "Icelandic Krona",
+    "currency_symbol": "ISK",
+    "rate": 0.653,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Kuwait",
+    "currency_name": "Kuwaiti Dinar",
+    "currency_symbol": "KWD",
+    "rate": 237.93,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Lebanon",
+    "currency_name": "Lebanese Pound",
+    "currency_symbol": "LBP",
+    "rate": 0.0477,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Qatar",
+    "currency_name": "Qatari Riyal",
+    "currency_symbol": "QAR",
+    "rate": 19.8,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Libya",
+    "currency_name": "Libyan Dinar",
+    "currency_symbol": "LYD",
+    "rate": 52.277,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Bosnia",
+    "currency_name": "Bosnian Convertible Marka",
+    "currency_symbol": "BAM",
+    "rate": 43.058,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "The European Union*",
+    "currency_name": "Euro",
+    "currency_symbol": "EUR",
+    "rate": 84.323,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Bulgaria",
+    "currency_name": "Bulgarian Lev",
+    "currency_symbol": "BGN",
+    "rate": 43.067,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "The Czech Republic",
+    "currency_name": "Czech Koruna",
+    "currency_symbol": "CZK",
+    "rate": 3.3007,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Croatia",
+    "currency_name": "Croatian Kuna",
+    "currency_symbol": "HRK",
+    "rate": 11.343,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Denmark",
+    "currency_name": "Danish Krone",
+    "currency_symbol": "DKK",
+    "rate": 11.3046,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Hungary",
+    "currency_name": "Hungarian Forint",
+    "currency_symbol": "HUF",
+    "rate": 0.2605,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Iceland",
+    "currency_name": "Icelandic Krona",
+    "currency_symbol": "ISK",
+    "rate": 0.653,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Moldova",
+    "currency_name": "Moldovan Leu",
+    "currency_symbol": "MDL",
+    "rate": 4.2899,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Macedonia",
+    "currency_name": "Macedonian Denar",
+    "currency_symbol": "MKD",
+    "rate": 1.3686,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Norway",
+    "currency_name": "Norwegian Krone",
+    "currency_symbol": "NOK",
+    "rate": 8.8406,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Poland",
+    "currency_name": "Polish Zloty",
+    "currency_symbol": "PLN",
+    "rate": 19.642,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Romania",
+    "currency_name": "Romanian Leu",
+    "currency_symbol": "RON",
+    "rate": 18.104,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Serbia",
+    "currency_name": "Serbian Denar",
+    "currency_symbol": "RSD",
+    "rate": 0.7134,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Russia",
+    "currency_name": "Russian Ruble",
+    "currency_symbol": "RUB",
+    "rate": 1.0818,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Norway",
+    "currency_name": "Norwegian Krone",
+    "currency_symbol": "NOK",
+    "rate": 8.8534,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Sweden",
+    "currency_name": "Swedish Krona",
+    "currency_symbol": "SEK",
+    "rate": 8.1303,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Switzerland",
+    "currency_name": "Swiss Franc",
+    "currency_symbol": "CHF",
+    "rate": 74.565,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Turkey",
+    "currency_name": "Turkish Lira",
+    "currency_symbol": "TRY",
+    "rate": 11.506,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Ukraine",
+    "currency_name": "Ukranian Hryvnia",
+    "currency_symbol": "UAH",
+    "rate": 2.5631,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "United Kingdom",
+    "currency_name": "British Pound",
+    "currency_symbol": "GBP",
+    "rate": 94.762,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Argentina",
+    "currency_name": "Argentine Peso",
+    "currency_symbol": "ARS",
+    "rate": 1.8343,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Bolivia",
+    "currency_name": "Bolivian Boliviano",
+    "currency_symbol": "BOB",
+    "rate": 10.437,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Brazil",
+    "currency_name": "Brazilian Real",
+    "currency_symbol": "BRL",
+    "rate": 17.468,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Chile",
+    "currency_name": "Chilean Peso",
+    "currency_symbol": "CLP",
+    "rate": 0.1061,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Columbia",
+    "currency_name": "Colombian Peso",
+    "currency_symbol": "COP",
+    "rate": 0.0237,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Peru",
+    "currency_name": "Peruvian Sol",
+    "currency_symbol": "PEN",
+    "rate": 21.83,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Paraguay",
+    "currency_name": "Paraguayan Guaran\u00ed",
+    "currency_symbol": "PYG",
+    "rate": 0.0123,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Uruguay",
+    "currency_name": "Uruguayan Peso",
+    "currency_symbol": "UYU",
+    "rate": 2.1711,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Venezuela",
+    "currency_name": "Venezuelan Bol\u00edvar",
+    "currency_symbol": "VEF",
+    "rate": 7.217,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "The United States",
+    "currency_name": "United States Dollar",
+    "currency_symbol": "USD",
+    "rate": 72.04,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Canada",
+    "currency_name": "Canadian Dollar",
+    "currency_symbol": "CAD",
+    "rate": 55.795,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Aruba",
+    "currency_name": "Aruban/Dutch Guilder",
+    "currency_symbol": "AWG",
+    "rate": 40.265,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Barbados",
+    "currency_name": "Bajan Dollar",
+    "currency_symbol": "BBD",
+    "rate": 36.037,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Bermuda",
+    "currency_name": "Bermudian Dollar",
+    "currency_symbol": "BMD",
+    "rate": 72.074,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Bahamas",
+    "currency_name": "Bahamian Dollar",
+    "currency_symbol": "BSD",
+    "rate": 72.07,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Dominica",
+    "currency_name": "Dominican Peso",
+    "currency_symbol": "DOP",
+    "rate": 1.437,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Jamaica",
+    "currency_name": "Jamaican Dollar",
+    "currency_symbol": "JMD",
+    "rate": 0.5291,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Mexico",
+    "currency_name": "Mexican Peso",
+    "currency_symbol": "MXN",
+    "rate": 3.842,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "South Africa",
+    "currency_name": "South African Rand",
+    "currency_symbol": "ZAR",
+    "rate": 4.917,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Egypt",
+    "currency_name": "Egyptian Pound",
+    "currency_symbol": "EGP",
+    "rate": 4.026,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Ghana",
+    "currency_name": "Ghanian Cedi",
+    "currency_symbol": "GHS",
+    "rate": 14.4894,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Gambia",
+    "currency_name": "Gambian Dalasi",
+    "currency_symbol": "GMD",
+    "rate": 1.4869,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Kenya",
+    "currency_name": "Kenyan Shilling",
+    "currency_symbol": "KES",
+    "rate": 0.715,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Morocco",
+    "currency_name": "Moroccan Dirham",
+    "currency_symbol": "MAD",
+    "rate": 7.684,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Mauritius",
+    "currency_name": "Mauritian Rupee",
+    "currency_symbol": "MUR",
+    "rate": 2.098,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Namibia",
+    "currency_name": "Namibian Dollar",
+    "currency_symbol": "NAD",
+    "rate": 4.921,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Nigeria",
+    "currency_name": "Nigerian Naira",
+    "currency_symbol": "NGN",
+    "rate": 0.1988,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Seychelles",
+    "currency_name": "Seychellois Rupee",
+    "currency_symbol": "SCR",
+    "rate": 5.3274,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Tunisia",
+    "currency_name": "Tunisian Dinar",
+    "currency_symbol": "TND",
+    "rate": 25.933,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Uganda",
+    "currency_name": "Ugandan Shilling",
+    "currency_symbol": "UGX",
+    "rate": 0.0188,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Central Africa",
+    "currency_name": "CFA Franc",
+    "currency_symbol": "XAF",
+    "rate": 0.12845,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "West Africa",
+    "currency_name": "Serbian Denar",
+    "currency_symbol": "XOF",
+    "rate": 0.1284,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Australia",
+    "currency_name": "Australian Dollar",
+    "currency_symbol": "AUD",
+    "rate": 52.3572,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "Fiji",
+    "currency_name": "Fijian Dollar",
+    "currency_symbol": "FJD",
+    "rate": 33.94,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "New Zealand",
+    "currency_name": "New Zealand Dollar",
+    "currency_symbol": "NZD",
+    "rate": 47.95,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  },
+  {
+    "country": "CPF",
+    "currency_name": "CPF Franc",
+    "currency_symbol": "XPF",
+    "rate": 0.705,
+    "source_currency": "Ruppee",
+    "time": "Jan-01-2020 03:35:07"
+  }
+]
